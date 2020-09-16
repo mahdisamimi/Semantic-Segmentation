@@ -1,3 +1,4 @@
 # Semantic-Segmentation
-{{budge}}
+{{ badge }}
+
 Semantic Segmentation using PyClustering 
