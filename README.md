@@ -3,7 +3,7 @@
 
 Semantic Segmentation using PyClustering 
 
-Input Image : 
+Input Image : </p>
 ![Input](https://github.com/mahdisamimi/Semantic-Segmentation/blob/master/sample1.jpg)
 
 Ground Image :
