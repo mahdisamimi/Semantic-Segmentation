@@ -6,5 +6,5 @@ Semantic Segmentation using PyClustering
 Input Image : </p>
 ![Input](https://github.com/mahdisamimi/Semantic-Segmentation/blob/master/sample1.jpg)
 
-Ground Image :
+Ground Image : </p>
 ![Ground](https://github.com/mahdisamimi/Semantic-Segmentation/blob/master/goudarzi-samimi_edited.png)
